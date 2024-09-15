@@ -1,2 +1,3 @@
 # FirstProject-demo
-This is first Repository
+This is first git Repository.
+Author - Vaibhavi Patil
